@@ -1,2 +1,3 @@
-Titanic Project
+Titanic Kaggle Project
+
 
